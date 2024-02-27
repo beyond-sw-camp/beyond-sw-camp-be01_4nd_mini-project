@@ -9,7 +9,7 @@
 
 ----
 ### TEAM - 1
-- wbs :
+- WBS :
 - member :
 - code Repo :
   
