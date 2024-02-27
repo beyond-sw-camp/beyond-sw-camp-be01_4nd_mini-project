@@ -10,7 +10,7 @@
 ----
 ### TEAM - 1
 - WBS :
-- member :🐻 최원규,🐻 전승민, 🐰 윤채영, 🐨 우지영, 🐯 박재린 
+- member : 🐻‍❄️ 최원규, 🐻 전승민, 🐰 윤채영, 🐨 우지영, 🐯 박재린 
 - code Repo : https://github.com/be01-4nd-mini-project-TEAM1/R1-devops-project
   
 ### TEAM - 2
