@@ -15,6 +15,10 @@
   
 ### TEAM - 2
 
+- WBS : 
+- member : 이동혁, 김민우, 박민희, 윤채영
+- code Repo : 
+
 ### TEAM - 3
 
 ### TEAM - 4
