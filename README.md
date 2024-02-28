@@ -25,6 +25,9 @@
 - code Repo : https://github.com/be01-4nd-mini-project-TEAM1/R1-devops-project
   
 ### TEAM - 2
+- WBS : https://docs.google.com/spreadsheets/d/1vYhjhAhRoFE6Hz9ik-OQZEl94MDp7P8yjClDH0XVsPo/edit#gid=0
+- member : 박민성, 안유용, 심규혁, 정수민
+- code Repo : https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER
 
 ### TEAM - 3
 
