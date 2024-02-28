@@ -9,13 +9,14 @@
 
 ----
 ### TEAM - 1
-- WBS :
-- member :
-- code Repo :
   
 ### TEAM - 2
 
 ### TEAM - 3
+
+- WBS :
+- member : 고라희, 박대호, 박민희, 임성현
+- code Repo :
 
 ### TEAM - 4
 
