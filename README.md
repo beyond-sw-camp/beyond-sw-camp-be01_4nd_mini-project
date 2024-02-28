@@ -15,9 +15,9 @@
   
 ### TEAM - 2
 
-- WBS : 
+- WBS : https://docs.google.com/spreadsheets/d/1EGZ4oe8xWM_krnSK9Wl5pA0CXzDNDEoStJe1QuHDpJY/edit#gid=0
 - member : 이동혁, 김민우, 김민성, 김단아
-- code Repo : 
+- code Repo : https://github.com/minu1215/2team_4th_project
 
 ### TEAM - 3
 
