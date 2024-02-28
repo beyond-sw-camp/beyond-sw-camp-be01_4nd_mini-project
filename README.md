@@ -44,3 +44,19 @@
 - code Repo : https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER
 
 ### TEAM - 5
+- WBS : 
+1.
+2.
+3.
+4.
+5.
+6.
+
+- member : 
+* 김정민
+* 이영진
+* 주현성
+* 이경민
+
+- code Repo :
+https://github.com/devops-team-project-4nd/server-network 
