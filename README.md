@@ -21,13 +21,7 @@
 
 ### TEAM - 5
 - WBS : 
-1.
-2.
-3.
-4.
-5.
-6.
-
+https://docs.google.com/spreadsheets/d/1S7zxJqrpH5wxNE9USEn-2oVb2y2XXN28pf60u-I7COU/edit#gid=0
 - member : 
 * 김정민
 * 이영진
