@@ -14,6 +14,9 @@
 - code Repo :
   
 ### TEAM - 2
+- WBS :
+- member : 박민성, 안유용, 심규혁, 정수민
+- code Repo :
 
 ### TEAM - 3
 
