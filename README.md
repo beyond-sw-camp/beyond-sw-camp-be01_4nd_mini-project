@@ -16,7 +16,7 @@
 
 - WBS :
 - member : 고라희, 박대호, 박민희, 임성현
-- code Repo :
+- code Repo : https://github.com/be01-3team/be01-4th-3Team
 
 ### TEAM - 4
 
