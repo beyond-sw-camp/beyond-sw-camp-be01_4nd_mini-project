@@ -15,6 +15,7 @@
 
 ----
 ### TEAM - 1
+
 - WBS : https://docs.google.com/spreadsheets/d/1qEjl9ZmYK0VKG3ePlmyBdCOfm5YewigOBiDhvfU4JfM/edit?hl=ko#gid=0
  <br>
  
@@ -23,6 +24,7 @@
 
 - member :🐻‍❄️ 최원규, 🐻 전승민, 🐰 윤채영, 🐨 우지영, 🐯 박재린 
 - code Repo : https://github.com/be01-4nd-mini-project-TEAM1/R1-devops-project
+
   
 ### TEAM - 2
 
@@ -31,6 +33,10 @@
 - code Repo : https://github.com/minu1215/2team_4th_project
 
 ### TEAM - 3
+
+- WBS : https://docs.google.com/spreadsheets/d/1neLKwwPXdgbpSg44Hx_2vMdznLU9qsmRPlnULO3au7M/edit#gid=1005605698
+- member : 고라희, 박대호, 박민희, 임성현
+- code Repo : https://github.com/be01-3team/be01-4th-3Team
 
 ### TEAM - 4
 - WBS : https://docs.google.com/spreadsheets/d/1vYhjhAhRoFE6Hz9ik-OQZEl94MDp7P8yjClDH0XVsPo/edit#gid=0
