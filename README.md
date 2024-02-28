@@ -14,9 +14,9 @@
 - code Repo :
   
 ### TEAM - 2
-- WBS :
+- WBS : https://docs.google.com/spreadsheets/d/1vYhjhAhRoFE6Hz9ik-OQZEl94MDp7P8yjClDH0XVsPo/edit#gid=0
 - member : 박민성, 안유용, 심규혁, 정수민
-- code Repo :
+- code Repo : https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER
 
 ### TEAM - 3
 
