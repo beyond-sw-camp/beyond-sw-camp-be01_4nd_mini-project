@@ -16,7 +16,7 @@
 ----
 ### TEAM - 1
 
-https://docs.google.com/presentation/d/1e1WKZQK9scZKpm4fpy86pS_QLW0RmzNUV1lpW-gZMg8/edit#slide=id.p
+- PPT : https://docs.google.com/presentation/d/1e1WKZQK9scZKpm4fpy86pS_QLW0RmzNUV1lpW-gZMg8/edit#slide=id.p
 
 - WBS : https://docs.google.com/spreadsheets/d/1qEjl9ZmYK0VKG3ePlmyBdCOfm5YewigOBiDhvfU4JfM/edit?hl=ko#gid=0
  <br>
