@@ -43,7 +43,7 @@ https://docs.google.com/presentation/d/1e1WKZQK9scZKpm4fpy86pS_QLW0RmzNUV1lpW-gZ
 ### TEAM - 4
 - WBS : https://docs.google.com/spreadsheets/d/1vYhjhAhRoFE6Hz9ik-OQZEl94MDp7P8yjClDH0XVsPo/edit#gid=0
 - member : 박민성, 안유용, 심규혁, 정수민
-- code Repo : https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER
+- code Repo : https://github.com/miniproject4-team4/main
 
 ### TEAM - 5
 - WBS : 
